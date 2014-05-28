@@ -1,3 +1,4 @@
+#
 class tomcat7_rhel::tomcat_instances (
   $instances = {}
 ) {
